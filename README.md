@@ -16,8 +16,8 @@
  
 | Rank | Languages   | Languages Also |
 |-----:|-------------|----------------|
-|     1|  Javascript | English        |
-|     2|  GoLang     | Turkish        |
+|     1|  Java       | English        |
+|     2|  R          | Turkish        |
 |     3|  Python     | German         |
 
 </details>
