@@ -16,8 +16,8 @@
  
 | Rank | Languages   | Languages Also |
 |-----:|-------------|----------------|
-|     1|  Java       | English        |
-|     2|  R          | Turkish        |
+|     1|  Java       | Turkish        |
+|     2|  R          | English        |
 |     3|  Python     | German         |
 |     4|  SQL        |                |
 
